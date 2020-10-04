@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Moon 2.0';
+    src: url('/fonts/Moon20-Regular.woff2') format('woff2'),
+        url('/fonts/Moon20-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Moon 2.0';
+    src: url('/fonts/Moon20-Bold.woff2') format('woff2'),
+        url('/fonts/Moon20-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Moon 2.0';
+    src: url('/fonts/Moon20-Light.woff2') format('woff2'),
+        url('/fonts/Moon20-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Casanova Scotia';
+    src: url('/fonts/CasanovaScotia.woff2') format('woff2'),
+        url('/fonts/CasanovaScotia.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'The Bravery Lite Ver.';
+    src: url('/fonts/TheBraveryLiteVer.woff2') format('woff2'),
+        url('/fonts/TheBraveryLiteVer.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'The Salvador Condensed';
+    src: url('/fonts/TheSalvadorCondensed-Regular.woff2') format('woff2'),
+        url('/fonts/TheSalvadorCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
